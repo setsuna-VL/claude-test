@@ -1,13 +1,11 @@
-# voe-claude-code-skills
-claude code skills
-# Skill Marketplace
+# Ingenic Skill Marketplace
 
 Ingenic ISVP 开发技能集，用于 Claude Code。
 
 ## 安装
 
 ```bash
-/install-plugin github:<用户名>/ingenic-skill
+/install-plugin github:setsuna-VL/claude-test
 ```
 
 ## 包含技能
