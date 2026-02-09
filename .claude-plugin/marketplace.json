@@ -1,11 +1,21 @@
 {
   "name": "ingenic-skill",
-  "description": "Ingenic ISVP开发技能集",
+  "owner": {
+    "name": "oywei"
+  },
+  "metadata": {
+    "description": "Ingenic ISVP开发技能集",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "ingenic-isvp-code-review",
-      "path": "ingenic-isvp-code-review",
-      "description": "Ingenic ISVP代码审查插件"
+      "source": {
+        "source": "url",
+        "url": "https://github.com/setsuna-VL/claude-test.git"
+      },
+      "description": "Ingenic ISVP代码审查插件",
+      "version": "1.0.0"
     }
   ]
 }
