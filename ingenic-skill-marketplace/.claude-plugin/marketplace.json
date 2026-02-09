@@ -1,0 +1,11 @@
+{
+  "name": "ingenic-skill",
+  "description": "Ingenic ISVP开发技能集",
+  "plugins": [
+    {
+      "name": "ingenic-isvp-code-review",
+      "path": "ingenic-isvp-code-review",
+      "description": "Ingenic ISVP代码审查插件"
+    }
+  ]
+}

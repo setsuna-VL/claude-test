@@ -1,0 +1,8 @@
+{
+  "name": "ingenic-isvp-code-review",
+  "description": "Ingenic ISVP代码审查插件",
+  "version": "1.0.0",
+  "author": {
+    "name": "oywei"
+  }
+}
